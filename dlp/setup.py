@@ -57,6 +57,6 @@ setup(
     license='Apache 2.0',
     packages=find_packages(exclude=('tests*', )),
     namespace_packages=['google', 'google.cloud'],
-    url='https://github.com/googleapis/googleapis',
+    url='https://github.com/GoogleCloudPlatform/google-cloud-python',
     zip_safe=False,
 )
